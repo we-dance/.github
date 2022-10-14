@@ -26,4 +26,4 @@ We are non-government organisation to support and spread dancing around the worl
 - [Awesome Dance](https://github.com/we-dance/awesome-dance) – a curated list of awesome dance apps and services
 - [Dance Events API](https://github.com/we-dance/foundation/issues/3) – initiative to define API standard for dance events
 - [Dance Styles API](https://github.com/we-dance/dance-styles) – API for dances with relations, properties, descriptions and translations
-
+- [Scrape CLI](https://github.com/we-dance/scrape-cli) - import and tag events from websites
