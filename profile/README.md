@@ -9,8 +9,6 @@ We are non-government organisation to support and spread dancing around the worl
 ### Where to start?
 👉 New to WeDance? Start here [wedance.vip/about](http://wedance.vip/about)
 
-👉 We are following [**Sociocracy 3.0 Guide**](https://patterns.sociocracy30.org/index.html) on evolving organizations. Refer to **Glossary** for terms you are not familiar with.
-
 👉 All meetings are listed in [**Calendar**](https://calendar.google.com/calendar/u/0/embed?src=72i6nvaml23edq36ii3h071u68@group.calendar.google.com). All important updates via email.
 
 👉 Join [WeDance Slack](https://wedance.vip/slack) to meet the team.
