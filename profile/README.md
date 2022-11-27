@@ -1,5 +1,13 @@
 We are non-government organisation to support and spread dancing around the world by enabling collaboration and development and bringing experts from different fields to create and support dance infrastructure.
 
+**Mission:** Make significant difference in dance industry and help make dance accessible to everyone.
+
+**Vision:** Find dance events and dancers in any city.
+
+**Ultimate Objective:** Become a start page for dancers by helping them find events and other dancers.
+
+> Whenever you ask someone: Where to dance? – They say: WeDance!
+
 [Team Wiki](https://wedance.vip/wiki) • [Calendar](https://calendar.google.com/calendar/u/0/embed?src=72i6nvaml23edq36ii3h071u68@group.calendar.google.com) • [Slack](https://wedance.vip/slack)
 
 Our main product is **community platform** for [dancers](https://github.com/we-dance/platform-v3/issues/10), [dance organizers](https://github.com/we-dance/platform-v3/issues/16) and [dance artists](https://github.com/we-dance/platform-v3/issues/17).
