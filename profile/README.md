@@ -1,6 +1,75 @@
 We are non-government organisation to support and spread dancing around the world by enabling collaboration and development and bringing experts from different fields to create and support dance infrastructure.
 
-[Wiki](https://wedance.vip/wiki) • [Calendar](https://calendar.google.com/calendar/u/0/embed?src=72i6nvaml23edq36ii3h071u68@group.calendar.google.com) • [Slack](https://wedance.vip/slack)
+[Team Wiki](https://wedance.vip/wiki) • [Calendar](https://calendar.google.com/calendar/u/0/embed?src=72i6nvaml23edq36ii3h071u68@group.calendar.google.com) • [Slack](https://wedance.vip/slack)
+
+Our main product is **community platform** for [dancers](https://github.com/we-dance/platform-v3/issues/10), [dance organizers](https://github.com/we-dance/platform-v3/issues/16) and [dance artists](https://github.com/we-dance/platform-v3/issues/17).
+
+**Key Drivers:**
+- Event Discovery: find next dance workshop, party or festival
+- Networking: find contacts of dancers, organizers, artists
+
+**Key Deliverables:**
+- Profiles of Dancers, Organizers, Venues, Dance Instructors
+- Event Pages
+- Posts and Comments: recommendations, articles, answers to questions
+
+**Customer Segment:**
+- People who would like to dance
+- Dance organizers (dance groups, dance academies, dance studios, dance bars)
+- Dance aritsts (dance instructors, musicians, DJs, influencers)
+
+**Early Adopters:**
+- New social dancers in the city
+- New independent dance instructors in the city
+- Dancers who post dance partner and party search requests on Facebook and Whatsapp
+
+**Unique Value Proposition:**
+- Discover best venues and events of the city. Find upcoming festivals, next socials and workshops around you.
+- Find a dance partner for a workshop. Let local dancers introduce you to the dance scene.
+- Share a ride or accommodation with other dancers for next festival to travel cheaper and with more fun.
+
+**Key Resources and Skills:**
+- Develop product that is intuitive and easy to use
+- Organic social media marketing: content creation and engagement
+- Community leadership, conflict resolution and networking in dance community
+- Continuously recruit volunteers for strategy and operations
+- Legal and Finance reporting
+
+**Key Challenges:**
+- Will dancers use WeDance to proactively ask for information and share recommendations?
+- Will organizers use WeDance as their main calendar?
+- Will artists use WeDance profile as their webpage?
+
+**Marketing Channels:**
+- Flyers at dance venues, events and shops
+- Google Search
+- YouTube, Spotify
+
+**Key Partners:**
+- Dance organisers, academies and instructors can provide their events
+- Big influencers and mass media can put the spotlight on us and help to grow. Dance bloggers, artists and organisers.
+- Dance festivals, academies and venues (bars, restaurants) can recommend us as a provider of upcoming dance events and dance partner search
+- Existing dance calendars and event-platforms can provide a list of existing events
+
+**Key Values**
+- **Open**: provide support for dance projects and their communities, furthering its mission of providing Open Source software for the public good.
+- **Collaborative**: our projects are defined by collaborative, consensus-based processes, an open, pragmatic software license and a desire to create high quality software that leads the way in its field.
+- **Community-first**: We focus on community and consumer needs.
+
+**Key Metrics:**
+- Amount of accounts created
+- Amount of events created
+- Total event views count
+
+**Cost Structure:**
+- Technical infrastructure (domain, servers, email services)
+- Taxes
+- Paid Campaigns
+- Legal Advisory
+
+**Revenues Streams:**
+- Payment Fees
+- Sponsored content
 
 ### Our Projects
 - [WeDance v2](https://github.com/we-dance/platform) - community platform for dancers (current)
@@ -9,9 +78,3 @@ We are non-government organisation to support and spread dancing around the worl
 - [Dance Events API](https://github.com/we-dance/foundation/issues/3) – initiative to define API standard for dance events
 - [Dance Styles API](https://github.com/we-dance/dance-styles) – API for dances with relations, properties, descriptions and translations
 - [Scrape CLI](https://github.com/we-dance/scrape-cli) - import and tag events from websites
-
-### Our Values
-
-- **Open**: WeDance Foundation provides support for dance projects and their communities, furthering its mission of providing Open Source software for the public good.
-- **Innovative**: WeDance Foundation projects are defined by collaborative, consensus-based processes, an open, pragmatic software license and a desire to create high quality software that leads the way in its field.
-- **Community-first**: We focus on community and consumer needs.
