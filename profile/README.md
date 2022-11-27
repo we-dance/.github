@@ -10,7 +10,7 @@ We are non-government organisation to support and spread dancing around the worl
 
 **About WeDance** • [Website](https://wedance.vip/) • [Team Wiki](https://wedance.vip/wiki) • [Team Calendar](https://calendar.google.com/calendar/u/0/embed?src=72i6nvaml23edq36ii3h071u68@group.calendar.google.com) • [Slack](https://wedance.vip/slack) • [Roadmap](https://github.com/we-dance/platform-v3/issues/32) • [Org Structure](https://github.com/we-dance/platform-v3/issues/31)
 
-Our main product is **community platform** for [dancers](https://github.com/we-dance/platform-v3/issues/10), [dance organizers](https://github.com/we-dance/platform-v3/issues/16) and [dance artists](https://github.com/we-dance/platform-v3/issues/17).
+Our main product is **community platform** for dancers, dance organizers and dance artists.
 
 **Key Drivers:**
 - Event Discovery: find next dance workshop, party or festival
