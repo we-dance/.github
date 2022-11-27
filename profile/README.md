@@ -64,6 +64,15 @@ Our main product is **community platform** for [dancers](https://github.com/we-d
 - **Collaborative**: our projects are defined by collaborative, consensus-based processes, an open, pragmatic software license and a desire to create high quality software that leads the way in its field.
 - **Community-first**: We focus on community and consumer needs.
 
+**Our Principles**
+- **Effectiveness.** Devote time only to what brings you closer toward achieving your objectives.
+- **Consent.** Raise, seek out and resolve objections to decisions and actions.
+- **Empiricism.** Test all assumptions through experimentation and continuous revision.
+- **Continuous Improvement.** Change incrementally to accommodate steady empirical learning.
+- **Equivalence.** Involve people in making and evolving decisions that affect them.
+- **Transparency.** Make all information accessible to everyone in an organization, unless there is a reason for confidentiality.
+- **Accountability.** Respond when something is needed, do what you agreed to do, and take ownership for the course of the organisation.
+
 **Key Metrics:**
 - Amount of accounts created
 - Amount of events created
