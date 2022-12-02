@@ -8,7 +8,7 @@ We are a non-profit organisation to support and spread dancing around the world 
 
 > Whenever you ask someone: Where to dance? – They say: WeDance!
 
-[Website](https://wedance.vip/) • **About WeDance** • [Welcome Guide](https://github.com/we-dance/platform-v3/issues/49) • [Team Wiki](https://wedance.vip/wiki) • [Team Calendar](https://calendar.google.com/calendar/u/0/embed?src=72i6nvaml23edq36ii3h071u68@group.calendar.google.com) • [Slack](https://wedance.vip/slack) • [Roadmap](https://github.com/we-dance/platform-v3/issues/32)
+[Website](https://wedance.vip/) • **About WeDance** • [Welcome Guide](https://github.com/we-dance/platform-v3/issues/49) • [Team Wiki](https://wedance.vip/wiki) • [Team Calendar](https://calendar.google.com/calendar/u/0/embed?src=72i6nvaml23edq36ii3h071u68@group.calendar.google.com) • [Slack](https://wedance.vip/slack) • [Roadmap](https://github.com/we-dance/platform-v3/issues/31)
 
 Our main product is an open-source **community platform** for dancers, dance organizers and dance artists.
 
