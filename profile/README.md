@@ -1,4 +1,4 @@
-We are a non-profit organisation to support and spread dancing around the world by enabling collaboration and development and bringing experts from different fields to create and support dance infrastructure.
+We are a educational non-profit organisation to support and spread dancing around the world by enabling collaboration and development and bringing experts from different fields to create and support dance infrastructure.
 
 **Mission:** Make significant difference in dance industry and help make dance accessible to everyone.
 
