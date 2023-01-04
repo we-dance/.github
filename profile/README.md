@@ -4,7 +4,7 @@ We are a educational non-profit organisation to support and spread dancing aroun
 
 **Vision:** Where can I dance? WeDance!
 
-Our main product is [wedance.vip](https://wedance.vip/) – an open-source **community platform** for dancers, dance organizers and dance artists.
+**Main product:** [wedance.vip](https://wedance.vip/) – an open-source **community platform** for dancers, dance organizers and dance artists.
 
 * [Business Model Canvas](https://github.com/we-dance/.github/blob/main/BusinessModelCanvas.md)
 * [Welcome Guide](https://github.com/we-dance/platform-v3/issues/49) 
