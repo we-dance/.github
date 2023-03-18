@@ -7,11 +7,9 @@ We are an educational non-profit organisation to support and spread dancing arou
 **Main product:** [wedance.vip](https://wedance.vip/) – an open-source **community platform** for dancers, dance organizers and dance artists. [Watch video](https://www.loom.com/share/6de527dc47f74a22a9666c024253250a)
 
 * [Business Model Canvas](https://github.com/we-dance/.github/blob/main/BusinessModelCanvas.md)
-* [Welcome Guide](https://github.com/we-dance/platform-v3/issues/49) 
 * [Team Wiki](https://wedance.vip/wiki) 
 * [Team Calendar](https://calendar.google.com/calendar/u/0/embed?src=72i6nvaml23edq36ii3h071u68@group.calendar.google.com) 
 * [Slack](https://wedance.vip/slack)
-* [Roadmap](https://github.com/we-dance/platform-v3/issues/31)
 
 ### Our Projects
 - [WeDance v2](https://github.com/we-dance/platform) - community platform for dancers (current)
